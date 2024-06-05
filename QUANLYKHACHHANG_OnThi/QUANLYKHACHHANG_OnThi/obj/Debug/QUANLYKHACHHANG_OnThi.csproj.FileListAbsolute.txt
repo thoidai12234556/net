@@ -1,0 +1,22 @@
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.exe.config
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.exe
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.pdb
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.Form1.resources
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.Properties.Resources.resources
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.exe
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.pdb
+C:\Users\Asus\source\repos\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.frm_DanhSachKhachHang.resources
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.exe.config
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.exe
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\bin\Debug\QUANLYKHACHHANG_OnThi.pdb
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.AssemblyReference.cache
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.frm_DanhSachKhachHang.resources
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.Form1.resources
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.Properties.Resources.resources
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.GenerateResource.cache
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.csproj.CoreCompileInputs.cache
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.exe
+D:\Tải xuống\DTU\DTU_2023-2024\HK2\Lập Trình Ứng Dụng .NET\QUANLYKHACHHANG_OnThi\QUANLYKHACHHANG_OnThi\obj\Debug\QUANLYKHACHHANG_OnThi.pdb

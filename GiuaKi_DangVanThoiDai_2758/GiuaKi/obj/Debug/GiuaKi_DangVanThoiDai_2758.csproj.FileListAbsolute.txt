@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\bin\Debug\GiuaKi.exe.config
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\bin\Debug\GiuaKi.exe
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\bin\Debug\GiuaKi.pdb
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi_DangVanThoiDai_2758.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi.Form1.resources
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi.Properties.Resources.resources
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi_DangVanThoiDai_2758.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi_DangVanThoiDai_2758.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi.exe
+C:\Users\Asus\source\repos\GiuaKi_DangVanThoiDai_2758\GiuaKi\obj\Debug\GiuaKi.pdb
